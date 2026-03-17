@@ -1,4 +1,4 @@
-# 💫 About Me:
+# 🫡💁‍♂️ About Me:
 Machine learning models, statistical analysis, and mathematical foundations behind predictive systems.<br>Machine learning research projects, data science problems, and mathematical modeling and also obsessed with physics<br>Advanced machine learning theory, optimization methods, and large-scale ML systems.<br>Linear algebra, probability theory, optimization methods, and advanced machine learning algorithms.<br>Machine learning, Python, data analysis, statistics,  mathematical modeling, and physics.<br>I enjoy understanding the mathematics behind algorithms more than just using them.<br>I care more about why an algorithm works than just making it run.<br>
 
 
